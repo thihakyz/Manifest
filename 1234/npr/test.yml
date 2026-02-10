@@ -1,4 +1,8 @@
 abc
 def
 123
+<<<<<<< HEAD
 456
+=======
+456
+>>>>>>> refs/remotes/origin/master
